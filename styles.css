@@ -1,0 +1,18 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  .red {
+    color: red;
+  }
+  .success {
+    display: none;
+    color: green;
+  }
+  .none {
+    display: none;
+  }
+  
+  .block {
+    display: block;
+  }
